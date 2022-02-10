@@ -53,3 +53,8 @@
 <img height=25 src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">&nbsp;&nbsp;
+
+### **My Stats**:
+
+<img src="https://github-readme-stats.vercel.app/api?username=amoghjalan&theme=tokyonight&count_private=true" alt="" width="50%" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amoghjalan&theme=tokyonight" alt="" width="50%" >
