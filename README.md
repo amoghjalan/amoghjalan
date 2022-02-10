@@ -26,7 +26,6 @@
 <img height=25 src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
-<img height=25 src="https://img.shields.io/badge/rust-%23E34F26.svg?style=for-the-badge&logo=rust&logoColor=white">&nbsp;&nbsp;
 
 
 #### **Frameworks, Platforms and Libraries**:
