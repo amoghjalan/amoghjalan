@@ -12,7 +12,7 @@
 
 #### About Me ?
 
-- 🏫 I'm a Junior pursuing a Bachelor’s degree in Software Engineering from the Delhi Technological University, Delhi, India.
+- 🏫 I'm in ny senior year pursuing a Bachelor’s degree in Software Engineering from the Delhi Technological University, Delhi, India.
 - ⚡️ My expertise primarily revolves around JavaScript, React, MERN, Web Development, NextJS and Machine Learning.
 - ♥️ I love to contribute to open-source products.
 
